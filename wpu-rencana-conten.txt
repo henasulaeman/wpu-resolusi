@@ -1,0 +1,3 @@
+membuat video mengenai javascript
+membuat video mengenai PHP framework
+menambah tutorial python
