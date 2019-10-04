@@ -1,4 +1,4 @@
 1. Membuat Web Laporan Penjualan Full Java dan Jquery
 2. Membuat Design Web E-Commerce
 3. Belajar Bahasa Pemograman Phython dan Framework Djanggo
-4. Belajar Jaringan Komputer
+
